@@ -1,0 +1,8 @@
+langchain openai
+python-docx
+python-dotenv
+crewai 
+crewai-tools
+docx
+base64
+
